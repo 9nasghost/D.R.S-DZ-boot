@@ -1,0 +1,9 @@
+
+ DATABASE  
+http://www.1gdd.com
+ Database Name = gdd_wp
+ Database User = gdd_wp
+ Database Password = HXD@m,9+z3Ur
+ Database Host = localhost
+ PhpMyAdmin http://www.1gdd.com/admin/   =>   PMA Founded !!
+
